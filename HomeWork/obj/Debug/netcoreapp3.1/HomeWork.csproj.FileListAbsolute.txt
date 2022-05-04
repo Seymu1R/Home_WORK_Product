@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Home_WORK_Product\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
